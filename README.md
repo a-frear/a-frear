@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amy</h1>
 <h3 align="center">I'm a frontend developer who loves creating projects that are fun to explore.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-frear" alt="a-frear" /></a> </p>
-
 - 🔹 I’m currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/)
 
 - 😄 Pronouns: She/her
