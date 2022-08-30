@@ -1,19 +1,17 @@
-<h1 align="left">Hi 👋, I'm Amy!</h1>
-<p align="left">
-<a href="https://linkedin.com/in/amy-frear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amy Frear LinkedIn profile" height="25" width="30"/></a>
-</p>
+<h1 align="left">Hi, I'm Amy! ✨</h1>
 <h3 align="left">I'm a frontend developer who loves creating projects that are fun to explore.</h3>
-
 
 🔹 I’m currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/).
 
-😄 Pronouns: She/her
-
 🌱 I’m currently learning **more about animation (react-spring, threejs) and accessibility.**
+
+😄 Pronouns: She/her
 
 💻 [Portfolio](http://www.frear-projects.com/)
 
 📝 [Medium](https://medium.com/@afrear)
+
+👋 [LinkedIn](https://linkedin.com/in/amy-frear)
 
 💬 Ask me about **react, gatsby, nextjs, sanity**
 
