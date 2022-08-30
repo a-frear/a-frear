@@ -1,21 +1,17 @@
-<h1 align="left">Hi 👋, I'm Amy</h1>
+<h1 align="left">Hi 👋, I'm Amy!</h1>
 <h3 align="left">I'm a frontend developer who loves creating projects that are fun to explore.</h3>
 
-🔹 I’m currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/)
+🔹 I’m currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/).
 
 😄 Pronouns: She/her
 
-🌱 I’m currently learning **react-spring, threejs**
+🌱 I’m currently learning **more about animation (react-spring, threejs) and accessibility.**
 
-👨‍💻 All of my projects are available at [http://www.frear-projects.com/](http://www.frear-projects.com/)
+💻 [Portfolio](http://www.frear-projects.com/)
 
-📝 I write articles on [https://medium.com/@afrear](https://medium.com/@afrear)
+📝 [Medium](https://medium.com/@afrear)
 
 💬 Ask me about **react, gatsby, nextjs, sanity**
-
-📫 How to reach me **amy.frear@gmail.com**
-
-📄 Know about my experiences [https://docs.google.com/document/d/1oNoNZ9H8ihECr0dwCAUVGy-_bGV-OfqXR2e3bhP_ssE/edit?usp=sharing](https://docs.google.com/document/d/1oNoNZ9H8ihECr0dwCAUVGy-_bGV-OfqXR2e3bhP_ssE/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
