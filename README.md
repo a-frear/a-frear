@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Amy! ✨</h1>
-<h3 align="left">I'm a frontend developer who loves creating projects that are fun to explore.</h3>
+<h3 align="left">I'm a frontend developer in Philly. I love working on projects that are fun to explore.</h3>
 
-🔹 I’m currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/).
+🔹 Currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/).
 
-🌱 I’m currently learning **more about animation (react-spring, threejs) and accessibility.**
+🌱 Currently learning **more about animation (react-spring, threejs) and accessibility.**
 
-😄 Pronouns: She/her
+😄 Pronouns: she/her
 
 💻 [Portfolio](http://www.frear-projects.com/)
 
