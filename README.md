@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amy</h1>
-<h3 align="center">I'm a frontend developer who loves creating projects that are fun to explore.</h3>
+<h1 align="left">Hi 👋, I'm Amy</h1>
+<h3 align="left">I'm a frontend developer who loves creating projects that are fun to explore.</h3>
 
 - 🔹 I’m currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/)
 
