@@ -3,7 +3,7 @@
 
 🔹 Currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/).
 
-🌱 Currently learning **more about animation (react-spring, threejs) and accessibility.**
+🌱 Currently learning **more about animation and accessibility.**
 
 😄 Pronouns: she/her
 
