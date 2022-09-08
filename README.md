@@ -5,6 +5,8 @@
 
 🌱 Currently learning **more about animation and accessibility.**
 
+💬 Currently building with **Gatsby, Next.js, and Sanity.**
+
 😄 Pronouns: she/her
 
 💻 [Portfolio](http://www.frear-projects.com/)
@@ -12,8 +14,6 @@
 📝 [Medium](https://medium.com/@afrear)
 
 👋 [LinkedIn](https://linkedin.com/in/amy-frear)
-
-💬 Currently working with **gatsby, nextjs, sanity**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-frear&" alt="a-frear" /></p>
 
