@@ -3,9 +3,9 @@
 
 🔹 Currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/).
 
-🌱 Currently learning **more about animation and accessibility.**
+🌱 Learning **more about animation and accessibility.**
 
-💬 Currently building with **Gatsby, Next.js, and Sanity.**
+💬 Building with **Gatsby, Next.js, and Sanity.**
 
 😄 Pronouns: she/her
 
