@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Amy! ✨</h1>
-<h3 align="left">I'm a frontend developer in Philly. I love working on projects that are fun to explore.</h3>
+<h3 align="left">I'm a web developer in Philly. I love working on projects that are fun to explore.</h3>
 
 🔹 Currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/).
 
 🌱 Learning **more about animation and accessibility.**
 
-💬 Building with **Gatsby, Next.js, and Sanity.**
+💬 Building with **Gatsby, Next.js, Sanity, Drupal, and Wordpress.**
 
 😄 Pronouns: she/her
 
