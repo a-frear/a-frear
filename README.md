@@ -3,12 +3,6 @@
 
 🔹 Currently working with the amazing team at [Bluecadet](https://www.bluecadet.com/).
 
-🌱 Learning **more about animation and accessibility.**
-
-💬 Building with **Gatsby, Next.js, Sanity, Drupal, and Wordpress.**
-
-😄 Pronouns: she/her
-
 💻 [Portfolio](http://www.frear-projects.com/)
 
 📝 [Medium](https://medium.com/@afrear)
