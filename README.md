@@ -5,8 +5,6 @@
 
 💻 [Portfolio](http://www.frear-projects.com/)
 
-📝 [Medium](https://medium.com/@afrear)
-
 👋 [LinkedIn](https://linkedin.com/in/amy-frear)
 
 <!--
